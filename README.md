@@ -1,1 +1,1 @@
-# Emi-Calculator
+# EMI-CALCULATOR
